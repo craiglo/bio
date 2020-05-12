@@ -1,8 +1,8 @@
 theme: minima
-title: craiglo bio [GitHub]
-author: Craiglo [Craig T. Hunkele]
+title: craiglo.github.io
+author: Craig Hunkele [craiglo]
 email: support@craiglo.com
-description: open-source, self-hosted, self-built, personal webpage, craiglo bio
+description: open-source, self-coded, self-hosted, personal website, GitHub Page
 
 # social links
 twitter_username: bagelbuttcheeks # DO NOT include the @ character, or else the build will fail!
